@@ -1,4 +1,4 @@
-# Social-Distancing-in-Real-Time
+# Crowd Detector-in-Real-Time
 Social distancing in Real-Time using live video stream/IP camera in OpenCV.
 > Please refer to the added Features.
 
